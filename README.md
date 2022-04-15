@@ -6,6 +6,8 @@ Basically, it is an amateurish rip-off from [Academicons](https://jpswalsh.githu
 
 # Usage 
 
+## HTML
+
 Install Compcodicons on your site by placing the fonts and css folders on your server and link to the compcodicons.css stylesheet by adding the following to the page header:
 
 ```html
@@ -18,6 +20,34 @@ Call the icons via
 <i class="cci cci-hackerrank"></i>
 ```
 
+## Jekyll
+
+
+1. Clone compcodicons
+
+    ```sh
+    git clone https://github.com/cschindlbeck/compcodicons
+    ```
+
+2. Copy font files (compcodicons.woff,compcodicons.tff) to assets/fonts
+
+3. Copy compcodicons.css file to assets/css
+
+4. Include css file in \_includes/head.html:
+
+    ```sh
+      <link rel="stylesheet" href="/assets/css/compcodicons.css">
+    ```
+5. Add to \_config.yaml:
+
+    ```yaml
+    author:
+      links:
+        - label: "Hackerrank"
+          icon: "cci cci-hackerrank"
+          url: "https://www.hackerrank.com/schindlbeck"
+    ```
+
 # License
 
 TODO
@@ -25,3 +55,6 @@ TODO
 # Author
 
 - GitHub: [https://github.com/cschindlbeck](https://github.com/cschindlbeck)
+
+
+
