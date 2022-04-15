@@ -4,6 +4,8 @@ Compcodicons is a specialist icon font set for competitive coding / programming.
 
 Basically, it is an amateurish rip-off from [Academicons](https://jpswalsh.github.io/academicons/) for Competitive Coding.
 
+An example can be seen on the sidebar of my [website](https://cschindlbeck.github.io/).
+
 # Usage 
 
 ## HTML
