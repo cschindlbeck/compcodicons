@@ -1,0 +1,34 @@
+---
+- name: CodeChef
+  class: "cci cci-codechef"
+  url: "https://www.codechef.com"
+- name: CodeForces
+  class: "cci cci-codeforces"
+  url: "https://codeforces.com"
+- name: Codersrank
+  class: "cci cci-codersrank"
+  url: "https://codersrank.io"
+- name: Coderwall
+  class: "cci cci-coderwall"
+  url: "https://coderwall.com"
+- name: Codesignal
+  class: "cci cci-codesignal"
+  url: "https://app.codesignal.com"
+- name: CodeWars
+  class: "cci cci-codewars"
+  url: "https://www.codewars.com"
+- name: GeeksForGeeks
+  class: "cci cci-geeksforgeeks"
+  url: "https://www.geeksforgeeks.org"
+- name: HackerEarth
+  class: "cci cci-hackerearth"
+  url: "https://www.hackerearth.com"
+- name: Hackerrank
+  class: "cci cci-hackerrank"
+  url: "https://www.hackerrank.com"
+- name: Leetcode
+  class: "cci cci-leetcode"
+  url: "https://leetcode.com"
+- name: TopCoder
+  class: "cci cci-topcoder"
+  url: "https://www.topcoder.com"
