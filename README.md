@@ -4,6 +4,7 @@ Compcodicons is a specialist icon font set for competitive coding / programming.
 
 Basically, it is an amateurish rip-off from [Academicons](https://jpswalsh.github.io/academicons/) for Competitive Coding.
 
+Available icons can be seen [here](https://cschindlbeck.github.io/compcodicons).
 An example can be seen on the sidebar of my [website](https://cschindlbeck.github.io/).
 
 # Usage 
@@ -57,6 +58,4 @@ TODO
 # Author
 
 - GitHub: [https://github.com/cschindlbeck](https://github.com/cschindlbeck)
-
-
 
