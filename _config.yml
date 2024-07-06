@@ -29,7 +29,7 @@ baseurl: "/compcodicons"  # the subpath of your site, e.g. /blog
 url: "https://cschindlbeck.github.io"
 url: "" # use "" for local development
 github_username: cschindlbeck
-linkedin_username: cschindlbeck
+linkedin_username: chrisschindlbeck
 
 # Build settings
 theme: minima

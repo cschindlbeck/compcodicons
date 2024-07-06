@@ -19,6 +19,8 @@ Available icons:
   </ul>
 </div>
 
+For an example of how to integrate this into your website, check out my [GitHub pages](https://cschindlbeck.github.io/).
+
 <style>
   .icon-container {
     display: flex;
@@ -29,21 +31,21 @@ Available icons:
   .icon-list {
     list-style-type: none;
     padding: 0;
-    margin: 0 auto; /* Center the list */
+    margin: 0 auto;
     display: flex;
-    flex-wrap: wrap; /* Allow items to wrap to the next line */
+    flex-wrap: wrap;
     justify-content: center;
   }
 
   .icon-list li {
-    font-size: 3em; /* Adjust the size of icons if needed */
-    text-align: center; /* Center the content within list items */
-    margin: 10px; /* Add some margin around each item */
+    font-size: 2em;
+    text-align: center;
+    margin: 10px;
   }
 
-  .icon-list li .icon-name {
-    display: block; /* Make the name block-level to center align */
-    margin-top: 5px; /* Add some margin between icon and name */
-    font-size: 0.5em; /* Adjust the font size if needed */
+  .icon-name {
+    display: block;
+    margin-top: 5px;
+    font-size: 0.5em;
   }
 </style>
